@@ -10,10 +10,10 @@
 ### 🧠 About Me
 
 - 🎯 Focused on sharpening my **Data Structures & Algorithms** skills  
-- 🔭 Currently working on **competitive programming** and **web development projects**
-- 🌱 Learning: **System Design**, **React.js**, and advanced C++
-- 💬 Ask me about: C++, Python, HTML/CSS, Git, DSA  
-- 👨‍💻 Exploring opportunities in **software development** and **tech communities**
+- 🔭 Currently working on **Competitive programming** and **Web development projects**
+- 🌱 Learning: **Cloud**, **Machine Learning**, and **advanced C++**
+- 💬 Ask me about: C++, HTML/CSS, Git, DSA  
+- 👨‍💻 Exploring opportunities in **software development** and **Tech communities**
 - ⚡ Fun fact: I love debugging more than coding 😄
 
 ---
@@ -33,8 +33,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinjb444&show_icons=true&theme=radical&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinjb444&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
