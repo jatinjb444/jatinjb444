@@ -2,7 +2,7 @@
 <h3 align="center">A passionate problem solver and lifelong learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Programmer+%7C+Learner+%7C+Tech+Enthusiast;C%2B%2B+%7C+Python+%7C+Web+Development;DSA+%7C+Competitive+Coding+%7C+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Programmer+%7C+Learner+%7C+Tech+Enthusiast;C%2B%2B+%7C+Python+%7C+Web+Development;DSA+%7C+Competitive+Coding" alt="Typing SVG" />
 </p>
 
 ---
